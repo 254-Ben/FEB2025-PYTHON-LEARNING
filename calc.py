@@ -15,4 +15,4 @@ elif User == "/":
     result = num1 / num2
     print(round(result, 2))
 else:
-    print("Invalid operator")
+    print("Invalid User")
